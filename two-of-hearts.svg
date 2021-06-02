@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64mm"
+   height="89mm"
+   viewBox="0 0 64 89"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
+   sodipodi:docname="heart-template.svg"
+   inkscape:export-filename="/home/aeri/projects/open-stellar-kingdoms/joker2.png"
+   inkscape:export-xdpi="300.04001"
+   inkscape:export-ydpi="300.04001">
+  <defs
+     id="defs2">
+    <rect
+       x="-0.2399107"
+       y="2.8465925"
+       width="10.833458"
+       height="44.344688"
+       id="rect144" />
+    <rect
+       x="-0.2399107"
+       y="2.8465925"
+       width="10.833458"
+       height="44.344688"
+       id="rect199" />
+    <rect
+       x="-0.2399107"
+       y="2.8465925"
+       width="10.833458"
+       height="44.344688"
+       id="rect2794" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0102196"
+     inkscape:cx="92.922143"
+     inkscape:cy="152.39056"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g2603"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1272"
+     inkscape:window-height="1404"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2603">
+      <text
+         xml:space="preserve"
+         id="text142"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0;font-family:Ani;-inkscape-font-specification:Ani;white-space:pre;shape-inside:url(#rect144);fill:#9d1b2b;fill-opacity:1;stroke:none;stroke-opacity:1;"
+         x="5.0672956"
+         y="0"
+         transform="translate(0.91346959,1.4236369)"><tspan
+           x="3.6609169"
+           y="7.0319962"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.15;font-family:Manjari;-inkscape-font-specification:Manjari;text-align:center;text-anchor:middle;fill:#9d1b2b;fill-opacity:1;stroke:none;stroke-opacity:1">2</tspan></tspan></text>
+      <path
+         id="path326"
+         style="fill:none;stroke:#9d1b2b;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 3.002467,27.834162 4.685221,26.862623 M 3.078512,26.026095 6.55191,24.020725 M 3.000001,24.196737 7.984255,21.339486 M 3.000001,22.232561 9.192178,18.682885 M 8,44 3,40.768339 3.020088,29.887268 l -0.04018,-10 7.020088,-4.36513 v -1.26974 c 0,0 0.07208,-1.285717 0,-6.512398 0,-5.0583223 4.383533,-4.74 4.383533,-4.74 h 42.616472 l 4,3 0.03759,8 -1.03759,1 0.962409,1 L 61,42 56,44"
+         sodipodi:nodetypes="ccccccccccccccccccccccc" />
+      <use
+         xlink:href="#symbol2459"
+         id="use2462" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path326"
+         id="use2605" />
+      <g
+         id="symbol2459">
+        <path
+           id="use2266"
+           style="fill:#9d1b2b;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 5.9864927,11.19557 v 3.437294 z m -2.2825635,0.729289 0.7537662,-1.464223 1.1384486,0.01271 0.3903485,0.722224 v 3.437294 h -0.637887 z"
+           sodipodi:nodetypes="cccccccccc" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use2266"
+           id="use2699"
+           transform="matrix(-1,0,0,1,11.972985,0)"
+           width="100%"
+           height="100%" />
+      </g>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#symbol2459"
+         id="use2706"
+         transform="matrix(2.0556035,0,0,2.0556035,25.18899,0.83185056)"
+         width="100%"
+         height="100%" />
+      <text
+         xml:space="preserve"
+         id="text2778"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0;font-family:Ani;-inkscape-font-specification:Ani;white-space:pre;shape-inside:url(#rect2794);fill:#9d1b2b;fill-opacity:1;stroke:none;stroke-opacity:1;"
+         x="5.0672956"
+         y="0"
+         transform="translate(0.91346959,1.4236369)"><tspan
+           x="3.6609169"
+           y="7.0319962"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.15;font-family:Manjari;-inkscape-font-specification:Manjari;text-align:center;text-anchor:middle;fill:#9d1b2b;fill-opacity:1;stroke:none;stroke-opacity:1">2</tspan></tspan></text>
+      <path
+         id="path2780"
+         style="fill:none;stroke:#9d1b2b;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 3.002467,27.834162 4.685221,26.862623 M 3.078512,26.026095 6.55191,24.020725 M 3.000001,24.196737 7.984255,21.339486 M 3.000001,22.232561 9.192178,18.682885 M 8,44 3,40.768339 3.020088,29.887268 l -0.04018,-10 7.020088,-4.36513 v -1.26974 c 0,0 0.07208,-1.285717 0,-6.512398 0,-5.0583223 4.383533,-4.74 4.383533,-4.74 h 42.616472 l 4,3 0.03759,8 -1.03759,1 0.962409,1 L 61,42 56,44"
+         sodipodi:nodetypes="ccccccccccccccccccccccc" />
+      <use
+         xlink:href="#symbol2459"
+         id="use2782" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path326"
+         id="use2784" />
+      <g
+         id="g2790">
+        <path
+           id="path2786"
+           style="fill:#9d1b2b;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 5.9864927,11.19557 v 3.437294 z m -2.2825635,0.729289 0.7537662,-1.464223 1.1384486,0.01271 0.3903485,0.722224 v 3.437294 h -0.637887 z"
+           sodipodi:nodetypes="cccccccccc" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use2266"
+           id="use2788"
+           transform="matrix(-1,0,0,1,11.972985,0)"
+           width="100%"
+           height="100%" />
+      </g>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#text2778"
+         id="use2796" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2780"
+         id="use2798" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use2782"
+         id="use2800" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use2784"
+         id="use2802" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g2790"
+         id="use2804" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#text142"
+         id="use2808"
+         transform="rotate(180,32.008734,44)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path326"
+         id="use2810"
+         transform="rotate(180,32.008734,44)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use2462"
+         id="use2812"
+         transform="rotate(180,32.008734,44)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use2605"
+         id="use2814"
+         transform="rotate(180,32.008734,44)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#symbol2459"
+         id="use2816"
+         transform="rotate(180,32.008734,44)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use2706"
+         id="use2818"
+         transform="rotate(180,32.008734,44)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#text2778"
+         id="use2820"
+         transform="rotate(180,32.008734,44)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2780"
+         id="use2822"
+         transform="rotate(180,32.008734,44)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use2782"
+         id="use2824"
+         transform="rotate(180,32.008734,44)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use2784"
+         id="use2826"
+         transform="rotate(180,32.008734,44)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g2790"
+         id="use2828"
+         transform="rotate(180,32.008734,44)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use2796"
+         id="use2830"
+         transform="rotate(180,32.008734,44)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use2798"
+         id="use2832"
+         transform="rotate(180,32.008734,44)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use2800"
+         id="use2834"
+         transform="rotate(180,32.008734,44)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use2802"
+         id="use2836"
+         transform="rotate(180,32.008734,44)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use2804"
+         id="use2838"
+         transform="rotate(180,32.008734,44)"
+         width="100%"
+         height="100%" />
+    </g>
+  </g>
+</svg>
