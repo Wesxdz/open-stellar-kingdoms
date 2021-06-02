@@ -14,7 +14,10 @@
    version="1.1"
    viewBox="0 0 906 366"
    height="366mm"
-   width="906mm">
+   width="906mm"
+   inkscape:export-filename="/home/aeri/projects/open-stellar-kingdoms/deck.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
     <rect
@@ -264,18 +267,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="2631.4388"
-     inkscape:cy="21.855661"
+     inkscape:zoom="0.5"
+     inkscape:cx="1533.1781"
+     inkscape:cy="440.70851"
      inkscape:document-units="mm"
      inkscape:current-layer="g4828"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1414"
+     inkscape:window-width="1272"
+     inkscape:window-height="1404"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      showguides="true">
     <sodipodi:guide
        orientation="1,0"
